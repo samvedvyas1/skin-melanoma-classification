@@ -1,6 +1,16 @@
 # Classification of Skin Melenoma using Deep Learning Techniques 
 ---
 ## What we are doing exactly:
+
+System Architecture:
+
+<img width="1920" height="1080" alt="System Architecture" src="https://github.com/user-attachments/assets/995da272-1d11-4d7a-a1c1-a1af97027b49" />
+
+Block Diagram:
+
+<img width="1920" height="1080" alt="Block Diagram" src="https://github.com/user-attachments/assets/9ff6fc1d-b051-44f9-86f7-7a9c5ec92ac2" />
+
+
 1. We take an image dataset of benign and malignant skin melanoma
 2. Perform below processes on the dataset:
     + Data Cleaning
