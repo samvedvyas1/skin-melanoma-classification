@@ -20,7 +20,6 @@ Block Diagram:
 4. Use feature extraction(to be decided) to extract features from the dataset
 5. Train the ensemble of models on the processed dataset of images.
 6. Use a voting mechanism(to be decided) to decide if an image shows a benign or malignant skin melanoma.
-7. ###### Publish the observations in our research paper.
 
 ---
 ### 1. Dataset Description:
